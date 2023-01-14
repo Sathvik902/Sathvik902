@@ -33,4 +33,4 @@
 
 
 
-![snake gif](https://github.com/Sathvik902/Sathvik902/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Sathvik902/Sathvik902/blob/output/github-contribution-grid-snake.gif) -->
