@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **sklearn,Tensorflow etc..**
 
-- 📫 How to reach me here - **sathvik902@gmail.com**, **linkedin.com/in/sathvik902**
+- 📫 How to reach me here - **sathvik902@gmail.com**, **https://linkedin.com/in/sathvik902**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
