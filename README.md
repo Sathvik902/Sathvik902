@@ -7,10 +7,10 @@
 
 ---
 
-<p align="center">
+<p align="left">
 
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sathvik902&theme=dark&hide_border=true" width="400">
+  <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=sathvik902&layout=compact&card_width=275&hide_border=false&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sathvik902&theme=dark&hide_border=false" width="400" height="200">
 </p>
 
 ## Tech Stack
